@@ -3,5 +3,9 @@
 =======
 Insert a text.
 >>>>>>> newbranch
+<<<<<<< Updated upstream
 新的分支，fixbug
 修正了bug
+=======
+当前工作的临时内容，尚未保存
+>>>>>>> Stashed changes
